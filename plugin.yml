@@ -1,0 +1,13 @@
+name: pm-benchmark
+main: sunch\benchmark\Main
+version: 1.0.0
+api: 2.0.0
+load: POSTWORLD
+author: sunch233
+description: pmmp benchmark/基准测试
+
+commands:
+ bm:
+  description: "run benchmark"
+  usage: "/bm"
+  permission: true
